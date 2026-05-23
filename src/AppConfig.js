@@ -20,7 +20,7 @@ const AppConfig = {
      * Your Spotify Developer app's Client ID.
      * Found at: https://developer.spotify.com/dashboard → your app → Settings
      */
-    SPOTIFY_CLIENT_ID: "6223ec9d295b460785a7a6df9d7e989e",
+    SPOTIFY_CLIENT_ID: "9154c0a4f8bb4df9be26f595be3c1e51",
 
     /**
      * The URL your app is deployed at on GitHub Pages.
