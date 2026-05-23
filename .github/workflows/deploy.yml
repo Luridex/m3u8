@@ -47,3 +47,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+- name: Build Jekyll for GitHub Pages
+  uses: actions/jekyll-build-pages@v1.0.13
